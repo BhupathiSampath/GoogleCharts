@@ -14,10 +14,10 @@
 </div>
 </template>
 <script>
-import highcharts from '/home/nsm-07/Desktop/Bhupati/dev1/sandbox/components/highcharts.vue'
-import StackedBar from '/home/nsm-07/Desktop/Bhupati/dev1/sandbox/components/stackBar.vue'
-import WeeklyStackedbar from '/home/nsm-07/Desktop/Bhupati/dev1/sandbox/components/weeklyLineages.vue'
-import WeeklyLineage from '/home/nsm-07/Desktop/Bhupati/dev1/sandbox/components/weeklyStackedbar.vue'
+import highcharts from '@/components/highcharts.vue'
+import StackedBar from '@/components/stackBar.vue'
+import WeeklyStackedbar from '@/components/weeklyLineages.vue'
+import WeeklyLineage from '@/components/weeklyStackedbar.vue'
 export default {
   components: {
     StackedBar, WeeklyStackedbar, WeeklyLineage, highcharts

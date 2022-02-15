@@ -8,7 +8,7 @@
 </div>
 </template>
 <script>
-import googlechart from '/home/nsm-07/Desktop/Bhupati/dev1/sandbox/components/googlechart.vue'
+import googlechart from '@/components/googlechart.vue'
 export default {
   components: {
       googlechart,
